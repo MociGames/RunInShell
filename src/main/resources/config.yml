@@ -1,0 +1,10 @@
+# https://wiki.mocimc.cn/#!usage_shell.md
+
+
+#使用/run命令的权限。
+permission: moci.shell
+#是否只允许后台输入。
+onlyCONSOLE: false
+
+#是否输出结果到后台。
+output: true

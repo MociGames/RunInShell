@@ -1,0 +1,7 @@
+name: Shell
+main: cn.moci.shell.Main
+version: 1.0.0 - SNAPSHOT
+author: Moci
+commands:
+    run:
+        description: 在终端中执行命令。
